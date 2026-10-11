@@ -1,0 +1,8 @@
+# Fichiers générés par make
+*.o
+*.a
+/pnm
+/output.p[bgp]m
+
+# macOS
+.DS_Store
